@@ -1,0 +1,5 @@
+# whitelist.txt
+# this is used to identify files that will be downloaded from github.com
+
+test.txt 
+README.md
